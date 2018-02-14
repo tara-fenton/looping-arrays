@@ -1,6 +1,7 @@
 # js-looping-arrays
 
-### Looping over Arrays Homework - due Wed, Feb 14 @ 11pm (please don't stay up all night and make sure to get plenty of sleep!)
+### Looping over Arrays Homework - due Wed, Feb 14 @ 11pm
+#### (please don't stay up all night and make sure to get plenty of sleep!)
 
 ## Before getting started, here's how to submit the homework
 1. Fork this repo to your own account
@@ -28,6 +29,7 @@ Given an array...
 `[true, 1, 0, 'elephant', undefined, NaN]`
 
 **Bonus**
+
 4. Return the `number` that is the average of all the numbers in the array.
 `[10, 20, 40, 55, 88, 121, 62]`
 
