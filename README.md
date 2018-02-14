@@ -22,7 +22,8 @@ Given an array...
 1. Return an `array` of only even numbers.
 `[234, 11, 21, 88, 1212, 6632, 00, 1]`
 
-2. Return an `array` of all words that have vowels. *Hint: the [indexOf() method](https://www.w3schools.com/jsref/jsref_indexof.asp) is useful to check if a specific letter is in a string*
+2. Return an `array` of all words that have vowels.
+    *Hint: the [indexOf() method](https://www.w3schools.com/jsref/jsref_indexof.asp) is useful to check if a specific letter is in a string*
 `['ryan', 'ada', 'ppzpp', 'brgggg', 'eric']`
 
 3. Return an `array` of all of the "truthy" values.
